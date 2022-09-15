@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tiago 
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning to become a Full Stack Web Developer
+- 🌱 I’m a Full Stack Web Developer
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me tiagobrasil18@gmail.com
 
